@@ -1,9 +1,8 @@
 # CycleComputer
 Cycle Computer for mbed
-
 /*
-   HandDetector for Android NDK
-   Copyright (c) 2006-2013 SIProp Project http://www.siprop.org/
+   Cycle Computer for mbed
+   Copyright (c) 2006-2016 SIProp Project http://www.siprop.org/
 
    This software is provided 'as-is', without any express or implied warranty.
    In no event will the authors be held liable for any damages arising from the use of this software.
